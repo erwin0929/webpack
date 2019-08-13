@@ -16,6 +16,6 @@
     "webpack-cli": "^3.3.6"
   },
   "scripts": {
-    "build": "webpack"
+    "go": "webpack"
   }
 }
