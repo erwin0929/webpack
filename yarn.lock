@@ -4976,6 +4976,11 @@ sass-loader@^7.2.0:
     pify "^4.0.1"
     semver "^5.5.0"
 
+sass-sandal@^3.4.1:
+  version "3.4.1"
+  resolved "https://registry.npm.taobao.org/sass-sandal/download/sass-sandal-3.4.1.tgz#1e4b5d86cb6e00e9735b2175267a2436c2e087f7"
+  integrity sha1-HktdhstuAOlzWyF1JnokNsLgh/c=
+
 sax@^1.2.4:
   version "1.2.4"
   resolved "https://registry.npm.taobao.org/sax/download/sax-1.2.4.tgz#2816234e2378bddc4e5354fab5caa895df7100d9"
